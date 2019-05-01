@@ -43,8 +43,8 @@ Give suggestions on pricing and rating to be a Superhost
 
 3. Unit types: 2b2b, 3b2b, etc. (The ratio of number of bathroom to number of bedroom should be greater than or equal to ½)
 
-### For people in Group B, we can give them a suggested price of their listings based on our models before and after having rating.
-If they want to get a higher price and rating, they have to be careful about accommodates, number of available days, distance to Time Square and whether its entire house or not. 
+### For people in Group B, we can give them suggested prices of their listings based on our models before and after having rating data.
+If they want to get a higher price and rating, they have to be careful about accommodates, number of available days, distance to Time Square and whether it's entire house or not. 
 
 Also, they can include “beautiful”, “neighborhood”, “home”, “spacious”, “great location”, etc. in summary to make their listings more attractive.
 
