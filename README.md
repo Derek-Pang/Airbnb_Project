@@ -1,2 +1,2 @@
-# Airbnb_Project
+# Airbnb Project
 Airbnb is one of the most popular global online marketplaces to provide hospitality services to both guests and hosts. It not only provides opportunities for hosts to determine price and other details for their listings, but also offer guests a place to rate and write comments for each listing. In this project, we decide to give pricing recommendations for hosts to get high ratings in terms of customer preference given two scenarios: the host is considering about getting a new house or apartment and put it on Airbnb, or the host has a specific listing already. 
