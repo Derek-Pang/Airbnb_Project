@@ -36,7 +36,7 @@ Give suggestions on pricing and rating to be a Superhost
 
 
 ## Conclusions
-### For people in group A, we have following 3 suggestions:
+### For people in Group A, we have following 3 suggestions:
 1. Location: in midtown or lower town Manhattan or brooklyn area that is near to Manhattan
 
 2. Property types: loft or serviced apartment
